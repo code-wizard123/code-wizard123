@@ -23,6 +23,6 @@
  ### 🤝🏻 &nbsp;Connect with Me
 
 <p align="center">
-<a href="https://www.linkedin.com/in/raunak-singh-kalsi-b9846b22b/"><img src="https://img.shields.io/badge/-Rafael%20LInedin-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
-<a href="rskalsi39@gmail.com"><img src="https://img.shields.io/badge/-rafael.jr077@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/raunak-singh-kalsi-b9846b22b/"><img src="https://img.shields.io/badge/-Raunaks&20LinkedIn-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
+<a href="rskalsi39@gmail.com"><img src="https://img.shields.io/badge/-rskalsi39@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
 </p>
